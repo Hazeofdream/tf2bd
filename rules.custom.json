@@ -1,0 +1,45 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"Haze_of_dream"
+		],
+		"description": "NA Specific Rules List for bots with pattern avatars/names",
+		"title": "Haze's Rule List",
+		"update_url": "UPDATE_THIS"
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Pinkie bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "5045e3b2f46bcc4c6d83d129960e6a6baff9857e"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "dsc.gg/perrys",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"dsc.gg/perrys"
+					]
+				}
+			}
+		}
+	]
+}
