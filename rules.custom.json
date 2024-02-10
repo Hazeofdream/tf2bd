@@ -20,8 +20,19 @@
 				"avatar_match": [
 					{
 						"avatar_hash": "5045e3b2f46bcc4c6d83d129960e6a6baff9857e"
+					},
+					{
+						"avatar_hash": "f1827d698c9c28c1b1cc7885ae48f461beebb8dc"
 					}
-				]
+				],
+				"mode": "match_any",
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"dsc.gg/pinkiewashere"
+					]
+				}
 			}
 		},
 		{
