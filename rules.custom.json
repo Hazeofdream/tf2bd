@@ -6,7 +6,7 @@
 		],
 		"description": "NA Specific Rules List for bots with pattern avatars/names",
 		"title": "Haze's Rule List",
-		"update_url": "UPDATE_THIS"
+		"update_url": "https://raw.githubusercontent.com/Hazeofdream/tf2bd/main/rules.custom.json"
 	},
 	"rules": [
 		{
