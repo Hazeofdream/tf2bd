@@ -44,6 +44,32 @@
 					"cheater"
 				]
 			},
+			"description": "Omegatronic Bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "da27e861edebe1da8d538ed8b27821bc1f1dacda"
+					},
+					{
+						"avatar_hash": "da27e861edebe1da8d538ed8b27821bc1f1dacda_full"
+					}
+				],
+				"mode": "match_any",
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"OMEGATRONIC"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
 			"description": "dsc.gg/perrys",
 			"triggers": {
 				"username_text_match": {
