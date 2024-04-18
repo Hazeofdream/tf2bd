@@ -99,8 +99,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"Mechinator"
-						"ç"
+						"Mechinator",
+						"ç",
 						"è"
 					]
 				}
