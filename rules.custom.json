@@ -100,8 +100,8 @@
 					"mode": "contains",
 					"patterns": [
 						"Mechinator",
-						"ç",
-						"è"
+						"\u00",
+						"\u0155"
 					]
 				}
 			}
