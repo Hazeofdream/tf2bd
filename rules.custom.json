@@ -92,6 +92,9 @@
 				"avatar_match": [
 					{
 						"avatar_hash": "9e27b9aae7d72b90fa5e86fe0dc97f2efcc819aa"
+					},
+					{
+						"avatar_hash": "5d37a5fd349d1841f930333237eb6a60f7dd6fbc"
 					}
 				],
 				"mode": "match_any",
