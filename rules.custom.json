@@ -91,7 +91,7 @@
 			"triggers": {
 				"avatar_match": [
 					{
-						"avatar_hash": "9e27b9aae7d72b90fa5e86fe0dc97f2efcc819aa_full"
+						"avatar_hash": "9e27b9aae7d72b90fa5e86fe0dc97f2efcc819aa"
 					}
 				],
 				"mode": "match_any",
