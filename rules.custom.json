@@ -102,7 +102,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"Mechinator",
+						"Mechinator"
 					]
 				}
 			}
@@ -138,6 +138,6 @@
 					]
 				}
 			}
-		},
+		}
 	]
 }
