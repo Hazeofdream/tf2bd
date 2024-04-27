@@ -138,6 +138,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "informant bots",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"https://www.youtube.com/watch?v=_T_-dShX72Q⁠‌‍‍⁠‍⁠​‍‌"
+					]
+				}
+			}
 		}
 	]
 }
