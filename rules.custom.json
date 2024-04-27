@@ -122,7 +122,15 @@
 					{
 						"avatar_hash": "e4c77c3012457e967006e2984f48032f8c774733"
 					}
-				]
+				],
+				"mode": "match_any",
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"MegaAntiCheat Hitman"
+					]
+				}
 			}
 		},
 		{
