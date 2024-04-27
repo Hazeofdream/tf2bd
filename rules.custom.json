@@ -162,7 +162,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"https://www.youtube.com/watch?v=_T_-dShX72Q⁠‌‍‍⁠‍⁠​‍‌"
+						"https://www.youtube.com/watch?v=_T_-dShX72Q⁠‌‍‍⁠‍⁠​‍‌",
+						"https://youtube.com/watch?v=M1y567N1d2Y"
 					]
 				}
 			}
