@@ -182,6 +182,21 @@
 					]
 				}
 			}
-		}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Garcia Bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "2a2493b5cad90c4af12488957ce1a78253b734e0"
+					}
+				]
+			}
+		},
 	]
 }
