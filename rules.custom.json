@@ -145,13 +145,14 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"discord.gg/rosnehook"
+						"rosnehook"
 					]
+				},
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"rosnehook​‍‌"
+						"rosnehook"
 					]
 				}
 			}
@@ -168,7 +169,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"_T_-dShX72Q⁠‌‍‍⁠‍⁠​‍‌",
+						"_T_-dShX72Q",
 						"M1y567N1d2Y"
 					]
 				},
@@ -176,9 +177,9 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"_T_-dShX72Q⁠‌‍‍⁠‍⁠​‍‌",
+						"_T_-dShX72Q",
 						"M1y567N1d2Y",
-						"babyragetf2‍﻿​‌‌‍​⁠‍﻿"
+						"babyragetf"
 					]
 				}
 			}
