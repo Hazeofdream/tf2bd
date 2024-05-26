@@ -146,7 +146,8 @@
 					"mode": "contains",
 					"patterns": [
 						"rosnehook",
-						"discord.gg/rosnehook"
+						"discord.gg/rosnehook",
+						"@RosneGaming"
 					]
 				},
 				"username_text_match": {
@@ -154,7 +155,8 @@
 					"mode": "contains",
 					"patterns": [
 						"rosnehook",
-						"discord.gg/rosnehook"
+						"discord.gg/rosnehook",
+						"@RosneGaming"
 					]
 				}
 			}
