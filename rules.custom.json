@@ -145,14 +145,16 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"rosnehook"
+						"rosnehook",
+						"discord.gg/rosnehook"
 					]
 				},
 				"username_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"rosnehook"
+						"rosnehook",
+						"discord.gg/rosnehook"
 					]
 				}
 			}
