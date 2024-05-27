@@ -145,7 +145,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"rosnehook",
+						"/rosnehook",
 						"discord.gg/rosnehook",
 						"@RosneGaming",
 						"4z9fpgVK"
@@ -155,7 +155,7 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"rosnehook",
+						"/rosnehook",
 						"discord.gg/rosnehook",
 						"@RosneGaming",
 						"4z9fpgVK"
