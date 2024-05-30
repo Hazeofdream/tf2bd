@@ -172,7 +172,7 @@
 					"case_sensitive": false,
 					"mode": "starts_with",
 					"patterns": [
-						"\u200b"
+						"\u200b\u200b"
 					]
 				}
 			}
