@@ -152,10 +152,7 @@
 						"x.com/OmegatronicAI",
 						"@OMEGATRONIC",
 						"shoppy.gg/@OMEGATRONIC",
-						"\u200b",
-						"\u200d",
-						"\u2060",
-						"\ufeff"
+						"TRONIC"
 					]
 				},
 				"username_text_match": {
@@ -169,14 +166,6 @@
 						"x.com/OmegatronicAI",
 						"@OMEGATRONIC",
 						"shoppy.gg/@OMEGATRONIC"
-					]
-				},
-
-				"chatmsg_text_match": {
-					"case_sensitive": false,
-					"mode": "starts_with",
-					"patterns": [
-						"\u200b\u200b"
 					]
 				}
 			}
