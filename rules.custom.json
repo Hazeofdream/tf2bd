@@ -51,7 +51,7 @@
 						"avatar_hash": "da27e861edebe1da8d538ed8b27821bc1f1dacda"
 					},
 					{
-						"avatar_hash": "da27e861edebe1da8d538ed8b27821bc1f1dacda_full"
+						"avatar_hash": "da27e861edebe1da8d538ed8b27821bc1f1dacda"
 					}
 				],
 				"mode": "match_any",
@@ -59,7 +59,19 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"OMEGATRONIC"
+						"OMEGATRONIC",
+						"@OMEGATRONIC"
+					]
+				},
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"x.com/OmegatronicAI",
+						"@OMEGATRONIC",
+						"shoppy.gg/@OMEGATRONIC",
+						"TRONIC",
+						"๎"
 					]
 				}
 			}
@@ -141,6 +153,7 @@
 			},
 			"description": "cheat advertisement bots",
 			"triggers": {
+				"mode": "match_any",
 				"chatmsg_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
@@ -148,12 +161,7 @@
 						"/rosnehook",
 						"discord.gg/rosnehook",
 						"@RosneGaming",
-						"4z9fpgVK",
-						"x.com/OmegatronicAI",
-						"@OMEGATRONIC",
-						"shoppy.gg/@OMEGATRONIC",
-						"TRONIC",
-						"๎"
+						"4z9fpgVK"
 					]
 				},
 				"username_text_match": {
@@ -163,10 +171,7 @@
 						"/rosnehook",
 						"discord.gg/rosnehook",
 						"@RosneGaming",
-						"4z9fpgVK",
-						"x.com/OmegatronicAI",
-						"@OMEGATRONIC",
-						"shoppy.gg/@OMEGATRONIC"
+						"4z9fpgVK"
 					]
 				}
 			}
@@ -179,6 +184,7 @@
 			},
 			"description": "informant bots",
 			"triggers": {
+				"mode": "match_any",
 				"chatmsg_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
