@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Pinkie bots",
+			"description": "Pinkie bots # These bots died in NA",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -44,7 +44,7 @@
 					"cheater"
 				]
 			},
-			"description": "Omegatronic Bots",
+			"description": "Omegatronic Bots # Came back Recently",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -82,7 +82,7 @@
 					"cheater"
 				]
 			},
-			"description": "dsc.gg/perrys",
+			"description": "dsc.gg/perrys # These bots died in NA",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
@@ -99,7 +99,7 @@
 					"cheater"
 				]
 			},
-			"description": "Mechinator Bots",
+			"description": "Mechinator Bots # Still running",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -128,7 +128,7 @@
 					"cheater"
 				]
 			},
-			"description": "cowhook Bots",
+			"description": "cowhook Bots # These bots died recently",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -151,7 +151,7 @@
 					"cheater"
 				]
 			},
-			"description": "cheat advertisement bots",
+			"description": "cheat advertisement bots # Generic rules list to linking to any cheat discord/github fork",
 			"triggers": {
 				"mode": "match_any",
 				"chatmsg_text_match": {
@@ -182,7 +182,7 @@
 					"cheater"
 				]
 			},
-			"description": "informant bots",
+			"description": "informant bots # Not named bots anymore but the links to these videos occassionally happen",
 			"triggers": {
 				"mode": "match_any",
 				"chatmsg_text_match": {
@@ -210,7 +210,7 @@
 					"cheater"
 				]
 			},
-			"description": "Garcia Bots",
+			"description": "Garcia Bots # Very occassionally these bots show up",
 			"triggers": {
 				"avatar_match": [
 					{
