@@ -82,13 +82,14 @@
 					"cheater"
 				]
 			},
-			"description": "dsc.gg/perrys # These bots died in NA",
+			"description": "dsc.gg/perrys # Came back 6/3/2024",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
-						"dsc.gg/perrys"
+						"dsc.gg/perrys",
+						"dsc.gg/theplatypus"
 					]
 				}
 			}
