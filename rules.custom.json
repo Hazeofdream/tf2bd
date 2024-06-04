@@ -214,6 +214,7 @@
 			},
 			"description": "Garcia Bots # Very occassionally these bots show up",
 			"triggers": {
+				"mode": "match_any",
 				"avatar_match": [
 					{
 						"avatar_hash": "2a2493b5cad90c4af12488957ce1a78253b734e0"
@@ -232,6 +233,7 @@
 			},
 			"description": "FixTF2 Bots",
 			"triggers": {
+				"mode": "match_any",
 				"avatar_match": [
 					{
 						"avatar_hash": "8a54fc302a2e74fdd72b5b14d0b5010e862bc196"
