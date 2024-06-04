@@ -223,6 +223,21 @@
 					}
 				]
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "FixTF2 Bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "8a54fc302a2e74fdd72b5b14d0b5010e862bc196"
+					}
+				]
+			}
 		}
 	]
 }
