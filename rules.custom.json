@@ -89,7 +89,8 @@
 					"mode": "contains",
 					"patterns": [
 						"dsc.gg/perrys",
-						"dsc.gg/theplatypus"
+						"dsc.gg/theplatypus",
+						"\u0e4a"
 					]
 				}
 			}
