@@ -235,25 +235,14 @@
 					"cheater"
 				]
 			},
-			"description": "FixTF2 Bots",
+			"description": "KillTF2/FixTF2 Bots",
 			"triggers": {
 				"mode": "match_any",
 				"avatar_match": [
 					{
 						"avatar_hash": "8a54fc302a2e74fdd72b5b14d0b5010e862bc196"
 					}
-				]
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "KillTF2 Bots",
-			"triggers": {
-				"mode": "match_any",
+				],
 				"chatmsg_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
