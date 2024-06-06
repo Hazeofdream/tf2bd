@@ -244,6 +244,31 @@
 					}
 				]
 			}
-		}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "KillTF2 Bots",
+			"triggers": {
+				"mode": "match_any",
+				"chatmsg_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"#KillTF2"
+					]
+				},
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"discord.gg/killtf2"
+					]
+				}
+			}
+		},
 	]
 }
