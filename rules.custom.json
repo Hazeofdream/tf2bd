@@ -52,7 +52,7 @@
 					},
 					{
 						"avatar_hash": "55b55ada2b4155e8f3d3431b3a32d7d2d0b276e8"
-					}
+					},
 					{
 						"avatar_hash": "64ff57515a5a6269a0eb23bfb0512ee79656ea91"
 					}
@@ -241,12 +241,12 @@
 			},
 			"description": "KillTF2/FixTF2 Bots",
 			"triggers": {
-				"mode": "match_any",
 				"avatar_match": [
 					{
 						"avatar_hash": "8a54fc302a2e74fdd72b5b14d0b5010e862bc196"
 					}
 				],
+				"mode": "match_any",
 				"chatmsg_text_match": {
 					"case_sensitive": false,
 					"mode": "contains",
