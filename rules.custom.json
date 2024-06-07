@@ -251,7 +251,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"#KillTF2"
+						"#KillTF2",
+						"discord.gg/killtf2"
 					]
 				},
 				"username_text_match": {
