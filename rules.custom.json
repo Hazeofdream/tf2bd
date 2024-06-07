@@ -53,6 +53,9 @@
 					{
 						"avatar_hash": "55b55ada2b4155e8f3d3431b3a32d7d2d0b276e8"
 					}
+					{
+						"avatar_hash": "64ff57515a5a6269a0eb23bfb0512ee79656ea91"
+					}
 				],
 				"mode": "match_any",
 				"username_text_match": {
@@ -60,7 +63,8 @@
 					"mode": "contains",
 					"patterns": [
 						"OMEGATRONIC",
-						"@OMEGATRONIC"
+						"@OMEGATRONIC",
+						"SIGMATRONIC"
 					]
 				},
 				"chatmsg_text_match": {
