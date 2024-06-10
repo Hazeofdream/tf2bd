@@ -252,7 +252,8 @@
 					"mode": "contains",
 					"patterns": [
 						"#KillTF2",
-						"discord.gg/killtf2"
+						"discord.gg/killtf2",
+						"\u200f"
 					]
 				},
 				"username_text_match": {
