@@ -55,6 +55,12 @@
 					},
 					{
 						"avatar_hash": "64ff57515a5a6269a0eb23bfb0512ee79656ea91"
+					},
+					{
+						"avatar_hash": "cd8c4c1c7cae0727abff5cc4a6e6b8b133556165"
+					},
+					{
+						"avatar_hash": "e29fcff9548d5d48fc616963f1de451287e3c1a8"
 					}
 				],
 				"mode": "match_any",
@@ -64,7 +70,9 @@
 					"patterns": [
 						"OMEGATRONIC",
 						"@OMEGATRONIC",
-						"SIGMATRONIC"
+						"SIGMATRONIC",
+						"DELTATRONIC",
+						"\u0E48"
 					]
 				},
 				"chatmsg_text_match": {
