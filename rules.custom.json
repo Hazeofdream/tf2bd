@@ -15,7 +15,7 @@
 					"cheater"
 				]
 			},
-			"description": "Pinkie bots # These bots died in NA",
+			"description": "Pinkie",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -44,7 +44,7 @@
 					"cheater"
 				]
 			},
-			"description": "Omegatronic Bots # Came back Recently",
+			"description": "Omegatronic",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -108,7 +108,7 @@
 					"cheater"
 				]
 			},
-			"description": "dsc.gg/perrys # Came back 6/3/2024",
+			"description": "perrys",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
@@ -128,7 +128,7 @@
 					"cheater"
 				]
 			},
-			"description": "Mechinator Bots # Still running",
+			"description": "Mechinator Bots",
 			"triggers": {
 				"avatar_match": [
 					{
@@ -180,7 +180,7 @@
 					"cheater"
 				]
 			},
-			"description": "cheat advertisement bots # Generic rules list to linking to any cheat discord/github fork",
+			"description": "cheat advertisement/spam",
 			"triggers": {
 				"mode": "match_any",
 				"chatmsg_text_match": {
@@ -220,7 +220,7 @@
 					"cheater"
 				]
 			},
-			"description": "informant bots # Not named bots anymore but the links to these videos occassionally happen",
+			"description": "informant bots",
 			"triggers": {
 				"mode": "match_any",
 				"chatmsg_text_match": {
@@ -248,7 +248,7 @@
 					"cheater"
 				]
 			},
-			"description": "Garcia Bots # Very occassionally these bots show up",
+			"description": "Delia Garcia",
 			"triggers": {
 				"mode": "match_any",
 				"avatar_match": [
@@ -267,7 +267,7 @@
 					"cheater"
 				]
 			},
-			"description": "KillTF2/FixTF2 Bots",
+			"description": "KillTF2/FixTF2",
 			"triggers": {
 				"avatar_match": [
 					{
