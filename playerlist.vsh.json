@@ -1,0 +1,25 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Haze_of_dream"
+		],
+		"description": "Playerlist for versus saxton hale official, for useless retards and abusive votekickers",
+		"title": "VSH Playerlist"
+	},
+	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Alan Bernard",
+				"time": 1593821733
+			},
+			"proof": [
+				"British the revenge votekicks users for kicking friendlies",
+			],
+			"steamid": "[U:1:130386344]"
+		},
+    ]
+}
