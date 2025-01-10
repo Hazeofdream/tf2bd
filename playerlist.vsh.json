@@ -5,8 +5,7 @@
 			"Haze_of_dream"
 		],
 		"description": "Playerlist for versus saxton hale official, for useless retards and abusive votekickers",
-		"title": "VSH Playerlist",
-        "update_url": "https://raw.githubusercontent.com/Hazeofdream/tf2bd/refs/heads/master/playerlist.vsh.json"
+		"title": "VSH Playerlist"
 	},
 	"players": [
 		{
@@ -18,9 +17,9 @@
 				"time": 1593821733
 			},
 			"proof": [
-				"British, and revenge votekicks users for kicking friendlies",
+				"British, and revenge votekicks users for kicking friendlies"
 			],
 			"steamid": "[U:1:130386344]"
-		},
+		}
 	]
 }
