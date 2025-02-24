@@ -1,7 +1,7 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/shared.schema.json",
-	"title": "TF2 Bot Detector Shared Schema",
+	"$id": "https://raw.githubusercontent.com/Hazeofdream/tf2bd/refs/heads/master/custom.scheme.json",
+	"title": "A modified TF2BD Scheme to accomadate additional flags, not meant for bots or cheating.",
 	"definitions": {
 		"tfbd_player_attributes": {
 			"oneOf": [
@@ -18,8 +18,16 @@
 					"const": "exploiter"
 				},
 				{
-					"description": "A moron.",
-					"const": "racist"
+					"description": "Someone who uses votekick for invalid or petty reasons.",
+					"const": "votekicker"
+				},
+				{
+					"description": "Someone who consistently joins gamemodes requiring teamwork and frequently friendlies or is willingly useless.",
+					"const": "friendly"
+				},
+				{
+					"description": "Someone who plays annoying, loud, or unwanted soundboards or music.",
+					"const": "micspam"
 				}
 			]
 		},
