@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"$schema": "https://raw.githubusercontent.com/Hazeofdream/tf2bd/refs/heads/master/custom.scheme.json",
 	"file_info": {
 		"authors": [
 			"Haze_of_dream"
@@ -11,7 +11,7 @@
 	"players": [
 		{
 			"attributes": [
-				"racist"
+				"votekick"
 			],
 			"last_seen": {
 				"player_name": "Alan Bernard",
@@ -24,7 +24,7 @@
 		},
 		{
 			"attributes": [
-				"racist"
+				"votekick"
 			],
 			"last_seen": {
 				"player_name": "Mike",
@@ -37,7 +37,7 @@
 		},
 		{
 			"attributes": [
-				"racist"
+				"votekick"
 			],
 			"last_seen": {
 				"player_name": "doctor sex",
