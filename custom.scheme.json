@@ -40,8 +40,8 @@
 		},
 		"color": {
 			"type": "array",
-			"minItems": 3,
-			"maxItems": 4,
+			"minItems": 5,
+			"maxItems": 6,
 			"items": {
 				"type":"number",
 				"description": "Channel intensity.",
@@ -49,6 +49,8 @@
 				"maximum": 1
 			},
 			"default": [
+				1.0,
+				1.0,
 				1.0,
 				1.0,
 				1.0,
