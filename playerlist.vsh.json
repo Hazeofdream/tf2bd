@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/Hazeofdream/tf2bd/refs/heads/master/custom.scheme.json",
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/shared.schema.json",
 	"file_info": {
 		"authors": [
 			"Haze_of_dream"
