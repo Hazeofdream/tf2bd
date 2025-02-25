@@ -85,6 +85,32 @@
 				"Intentional friendly"
 			],
 			"steamid": "[U:1:1855903092]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "YollGully",
+				"time": 1740449215
+			},
+			"proof": [
+				"Abusive Votekicks"
+			],
+			"steamid": "[U:1:75492811]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "s9quid",
+				"time": 1740449160
+			},
+			"proof": [
+				"Abusive votekicking"
+			],
+			"steamid": "[U:1:1210510634]"
 		}
 	]
 }
