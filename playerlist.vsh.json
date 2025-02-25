@@ -47,6 +47,44 @@
 				"Abusive Votekicking"
 			],
 			"steamid": "[U:1:1683130030]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"time": 1740441392
+			},
+			"proof": [
+				"Micspamming furry"
+			],
+			"steamid": "[U:1:1628768532]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "The Rat",
+				"time": 1740447156
+			},
+			"proof": [
+				"Micspam"
+			],
+			"steamid": "[U:1:1630095719]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "when the patient woke up",
+				"time": 1740443409
+			},
+			"proof": [
+				"Intentional friendly"
+			],
+			"steamid": "[U:1:1855903092]"
 		}
 	]
 }
