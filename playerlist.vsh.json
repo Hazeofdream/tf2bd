@@ -111,6 +111,19 @@
 				"Abusive votekicking"
 			],
 			"steamid": "[U:1:1210510634]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Flying Squirrel",
+				"time": 1740630641
+			},
+			"proof": [
+				"Friendly, even tried retry bind to bypass votekick"
+			],
+			"steamid": "[U:1:892982675]"
 		}
 	]
 }
