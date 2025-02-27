@@ -124,6 +124,32 @@
 				"Friendly, even tried retry bind to bypass votekick"
 			],
 			"steamid": "[U:1:892982675]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "crow 64",
+				"time": 1740632142
+			},
+			"proof": [
+				"Abuses votekick"
+			],
+			"steamid": "[U:1:252732367]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Ham Shanker",
+				"time": 1740632182
+			},
+			"proof": [
+				"Revenge votekicks"
+			],
+			"steamid": "[U:1:1506590772]"
 		}
 	]
 }
