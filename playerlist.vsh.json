@@ -6,83 +6,6 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Alan Bernard",
-				"time": 1593821733
-			},
-			"proof": [
-				"British, and revenge votekicks users for kicking friendlies"
-			],
-			"steamid": "[U:1:130386344]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Mike",
-				"time": 1593821733
-			},
-			"proof": [
-				"Votekick abuse"
-			],
-			"steamid": "[U:1:1202780161]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "doctor sex",
-				"time": 1740348172
-			},
-			"proof": [
-				"Abusive Votekicking"
-			],
-			"steamid": "[U:1:1683130030]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"time": 1740441392
-			},
-			"proof": [
-				"Micspamming furry"
-			],
-			"steamid": "[U:1:1628768532]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "The Rat",
-				"time": 1740447156
-			},
-			"proof": [
-				"Micspam"
-			],
-			"steamid": "[U:1:1630095719]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "when the patient woke up",
-				"time": 1740443409
-			},
-			"proof": [
-				"Intentional friendly"
-			],
-			"steamid": "[U:1:1855903092]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
 				"player_name": "YollGully",
 				"time": 1740449215
 			},
@@ -96,26 +19,13 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "s9quid",
-				"time": 1740449160
+				"player_name": "Alan Bernard",
+				"time": 1593821733
 			},
 			"proof": [
-				"Abusive votekicking"
+				"British, and revenge votekicks users for kicking friendlies"
 			],
-			"steamid": "[U:1:1210510634]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Flying Squirrel",
-				"time": 1740630641
-			},
-			"proof": [
-				"Friendly, even tried retry bind to bypass votekick"
-			],
-			"steamid": "[U:1:892982675]"
+			"steamid": "[U:1:130386344]"
 		},
 		{
 			"attributes": [
@@ -135,13 +45,39 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Ham Shanker",
-				"time": 1740632182
+				"player_name": "Flying Squirrel",
+				"time": 1740630641
 			},
 			"proof": [
-				"Revenge votekicks"
+				"Friendly, even tried retry bind to bypass votekick"
 			],
-			"steamid": "[U:1:1506590772]"
+			"steamid": "[U:1:892982675]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Mike",
+				"time": 1593821733
+			},
+			"proof": [
+				"Votekick abuse"
+			],
+			"steamid": "[U:1:1202780161]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "s9quid",
+				"time": 1740449160
+			},
+			"proof": [
+				"Abusive votekicking"
+			],
+			"steamid": "[U:1:1210510634]"
 		},
 		{
 			"attributes": [
@@ -180,6 +116,83 @@
 				"Friendly abusing votekick"
 			],
 			"steamid": "[U:1:1489196320]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Ham Shanker",
+				"time": 1740632182
+			},
+			"proof": [
+				"Revenge votekicks"
+			],
+			"steamid": "[U:1:1506590772]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"time": 1740441392
+			},
+			"proof": [
+				"Micspamming furry"
+			],
+			"steamid": "[U:1:1628768532]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "The Rat",
+				"time": 1740447156
+			},
+			"proof": [
+				"Micspam"
+			],
+			"steamid": "[U:1:1630095719]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "doctor sex",
+				"time": 1740348172
+			},
+			"proof": [
+				"Abusive Votekicking"
+			],
+			"steamid": "[U:1:1683130030]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "when the patient woke up",
+				"time": 1740443409
+			},
+			"proof": [
+				"Intentional friendly"
+			],
+			"steamid": "[U:1:1855903092]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Corporal Creative",
+				"time": 1740443409
+			},
+			"proof": [
+				"Abuses Votekicks"
+			],
+			"steamid": "[U:1:835982147]"
 		}
 	]
 }
