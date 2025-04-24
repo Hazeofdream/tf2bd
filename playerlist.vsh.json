@@ -45,6 +45,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Corporal Creative",
+				"time": 1740443409
+			},
+			"proof": [
+				"Abuses Votekicks"
+			],
+			"steamid": "[U:1:835982147]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "Flying Squirrel",
 				"time": 1740630641
 			},
@@ -186,13 +199,13 @@
 				"racist"
 			],
 			"last_seen": {
-				"player_name": "Corporal Creative",
+				"player_name": "cc_random",
 				"time": 1740443409
 			},
 			"proof": [
-				"Abuses Votekicks"
+				"Constant votekick across servers"
 			],
-			"steamid": "[U:1:835982147]"
+			"steamid": "[U:1:1602791407]"
 		}
 	]
 }
