@@ -479,6 +479,19 @@
 				"Friendly"
 			],
 			"steamid": "[U:1:1872600381]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "myguy891",
+				"time": 1740443409
+			},
+			"proof": [
+				"Votekick Abuse"
+			],
+			"steamid": "[U:1:1618427065]"
 		}
 	]
 }
