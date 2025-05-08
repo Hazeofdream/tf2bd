@@ -1,6 +1,26 @@
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+	"file_info": {
+		"authors": [
+			"Haze_of_dream"
+		],
+		"description": "Offical VSH Blacklist for TF2 Bot Detector.",
+		"title": "Official VSH Blacklist"
+	},
 	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "CRasch",
+				"time": 1745782526
+			},
+			"proof": [
+				"Votekick Abuse"
+			],
+			"steamid": "[U:1:2159878]"
+		},
 		{
 			"attributes": [
 				"racist"
@@ -65,6 +85,19 @@
 				"Abuses votekick"
 			],
 			"steamid": "[U:1:252732367]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Nice try, Diddy",
+				"time": 1745782526
+			},
+			"proof": [
+				"Votekick Abuse"
+			],
+			"steamid": "[U:1:386658125]"
 		},
 		{
 			"attributes": [
@@ -291,6 +324,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Woody",
+				"time": 1745782526
+			},
+			"proof": [
+				"Votekick Abuse"
+			],
+			"steamid": "[U:1:1565190911]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "cc_random",
 				"time": 1740443409
 			},
@@ -466,45 +512,6 @@
 				"Friendly"
 			],
 			"steamid": "[U:1:1878216300]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "CRasch",
-				"time": 1745782526
-			},
-			"proof": [
-				"Votekick Abuse"
-			],
-			"steamid": "[U:1:2159878]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Nice try, Diddy",
-				"time": 1745782526
-			},
-			"proof": [
-				"Votekick Abuse"
-			],
-			"steamid": "[U:1:386658125]"
-		},
-		{
-			"attributes": [
-				"racist"
-			],
-			"last_seen": {
-				"player_name": "Woody",
-				"time": 1745782526
-			},
-			"proof": [
-				"Votekick Abuse"
-			],
-			"steamid": "[U:1:1565190911]"
 		}
 	]
 }
