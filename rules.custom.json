@@ -296,6 +296,26 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Fisting Bots",
+			"triggers": {
+				"mode": "match_any",
+				"chatmsg_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"steamcommunity.com/id/fisting247/allcomments",
+						"YOU'VE BEEN FISTED!",
+						"READY TO GET FISTED?"
+					]
+				}
+			}
 		}
 	]
 }
